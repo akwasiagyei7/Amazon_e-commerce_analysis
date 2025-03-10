@@ -13,15 +13,14 @@ Amazon generates vast amounts of sales data, but businesses need clear insights 
 - Generating KPIs for business decisions.
 
 ## Skills Demonstrated
-✔ Data Cleaning & Preprocessing in **Pandas**
-✔ Exploratory Data Analysis (EDA) with **Matplotlib & Seaborn**
-✔ Feature Engineering for deeper insights
-✔ Visualization with **Tableau (Dashboard to be added)**
-✔ Statistical Analysis for pricing impact
+- Data Cleaning & Preprocessing in **Pandas**
+- Exploratory Data Analysis (EDA) with **Matplotlib & Seaborn**
+- Feature Engineering for deeper insights
+- Visualization with **Tableau (Dashboard to be added)**
+- Statistical Analysis for pricing impact
 
 ## Data Sourcing
 - The dataset was sourced from **Amazon's public dataset**.
-- It includes product names, categories, ratings, discounted prices, and user engagement metrics.
 
 ## Data Processing
 - **Handled missing values** (Removed NA values from rating count).
